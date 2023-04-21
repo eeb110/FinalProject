@@ -1,8 +1,8 @@
 # FinalProject
 ## The Green Team - Group 17
- - Emily Boyle: eeb110@gmail.com (Ballfields analysis)
- - Ly Nguyen: lyn9@pitt.edu (Number of steps per day/transit score analysis)
- - Nicole Poliski: nvp14@pitt.edu (Playgrounds analysis)
+ - Emily Boyle: eeb110@gmail.com (Ballfields analysis), notebook: FinalProjectEmilyBoyle (2).ipynb)
+ - Ly Nguyen: lyn9@pitt.edu (Number of steps per day/transit score analysis, notebook: Ly-Steps-Visualization.ipynb)
+ - Nicole Poliski: nvp14@pitt.edu (Playgrounds analysis, notebook: Nicole-playground.ipynb)
 ## Datasets Used
  - Ballfields: https://data.wprdc.org/dataset/ballfields-pgh
  - Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2
